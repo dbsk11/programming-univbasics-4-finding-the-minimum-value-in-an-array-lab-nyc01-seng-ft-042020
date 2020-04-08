@@ -4,5 +4,5 @@ def find_min_value(array)
     min_value = array.min
     counter += 1
   end
-  
+
 end
